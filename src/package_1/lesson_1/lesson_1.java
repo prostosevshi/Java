@@ -16,7 +16,7 @@ public class lesson_1 {
 
             if (userInput == randomNumber)
             {
-                System.out.println("Вы правы!!!");
+                System.out.println("Вы правs!!!");
                 break;
             }
             else if (userInput > randomNumber)
